@@ -5,6 +5,7 @@
 + reverb.com
 ### Analysis
 + Quantity of guitars in price range (muztorg, thomann)
++ Quantity of guitars by manufacturer (muztorg, thomann)
 + Shipping prices from different regions (reverb)
 + Shipping prices for specified manufacturer (reverb)
 + Shipping prices for specified region and manufaсturer (reverb)
