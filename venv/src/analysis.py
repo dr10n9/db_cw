@@ -94,6 +94,49 @@ def amount_by_price_range(max_price=1000, step=100):
     fig.tight_layout()
     plt.savefig("results/prices_amount.png")
 
+item_regions = ['FR', 'JP', 'US', 'CA', 'RU', 'MX', 'PL', 'IT', 'DE', 'ES', 'BE', 'NL', 'CN']
+manufacturers = ['ibanez', 'gibson', 'epiphone', 'fender']
 
-amount_by_manufacturers()
-amount_by_price_range(5000, 1000)
+def shipping_by_regions():
+    y_pos = np.arange(len(item_regions))
+    average = []
+    for key in item_regions:
+        average.append(filter.shipping_price_in_region(key))
+
+    plt.bar(y_pos, average)
+    plt.xticks(y_pos, tuple(item_regions))
+    plt.ylabel("average shipping price")
+    plt.title("average shipping price by regions")
+    plt.savefig('results/shipping_region.png')
+    plt.close()
+
+def shipping_by_manufacturer():
+
+    y_pos = np.arange(len(manufacturers))
+    average = []
+    for key in manufacturers:
+        average.append(filter.shipping_price_by_manufactuer(key))
+    
+    print(average)
+    plt.bar(y_pos, average)
+    plt.xticks(y_pos, tuple(manufacturers))
+    plt.title('average shipping price by manufacturers')
+    plt.savefig('results/shipping_manufacturers')
+    plt.close()
+
+def shipping_by_manufacturer_and_region():
+    y_pos = np.arange(len(item_regions))
+    for m in manufacturers:
+        average = []
+        for r in item_regions:
+            average.append(filter.shipping_price_by_manufactuer_and_region(m, r))
+        plt.bar(y_pos, average)
+        plt.xticks(y_pos, tuple(item_regions))
+        plt.title(f'average shipping price of {m}')
+        plt.savefig(f'results/shipping_of_{m}')
+        plt.close()
+
+
+shipping_by_regions()
+shipping_by_manufacturer()
+shipping_by_manufacturer_and_region()
