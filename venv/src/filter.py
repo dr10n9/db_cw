@@ -40,7 +40,12 @@ def get_average_shipping(data):
     average = 0
     for d in data:
         average += d['shipping']
-    return round(average/data.count(), 2)
+    ret = 0
+    try:
+        ret = round(average/data.count(), 2)
+    except Exception as e:
+        print(e)
+    return ret
 
 def shipping_price_in_region(region=''):
     data = db.reverb.find({'region': region})
@@ -63,14 +68,21 @@ def shipping_price_by_manufactuer_and_region(manufacturer='', region=''):
 
 def shipping_price():
     item_regions = ['FR', 'JP', 'US', 'CA', 'RU', 'MX', 'PL', 'IT', 'DE', 'ES', 'BE', 'NL', 'CN']
-    for region in item_regions:
-        try:
-            print(f'average shipping price from {region}: {round(shipping_price_in_region(region), 2)}')
-        except Exception as e:
-            print(e)
+    manufacturers = ['ibanez', 'gibson', 'epiphone', 'fender']
+    for m in manufacturers:
+        for r in item_regions:
+            try:
+                print(f'{m} from {r}: {shipping_price_by_manufactuer_and_region(m, r)}')
+            except Exception as e:
+                print(e)
+    # for region in item_regions:
+    #     try:
+    #         print(f'average shipping price from {region}: {round(shipping_price_in_region(region), 2)}')
+    #     except Exception as e:
+    #         print(e)
 
-
-shipping_price()
+if __name__ == "__main__":
+    shipping_price()
 
 
 # manufacturer = 'fender'
