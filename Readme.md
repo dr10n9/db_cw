@@ -21,4 +21,9 @@
     * port 27007-27009 num 7-9
 4. sudo mongos --configdb config/localhost:27007,localhost:27008,localhost:27009 --port 27010
 
+### To start flask app
+1. FLASK_APP=server.py
+2. FLASK_ENV=development
+3. flask run from src dir
+
  
