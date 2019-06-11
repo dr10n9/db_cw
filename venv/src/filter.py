@@ -2,7 +2,7 @@ import pymongo
 from pymongo import ReadPreference
 import re
 
-connection = pymongo.MongoClient('localhost:27010')
+connection = pymongo.MongoClient('192.168.1.195:27010')
 db = connection.get_database('cw', read_preference=ReadPreference.SECONDARY)
 
 # connection = pymongo.MongoClient([

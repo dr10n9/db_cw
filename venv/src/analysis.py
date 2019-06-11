@@ -59,10 +59,12 @@ def amount_by_manufacturers():
     autolabel(rects1, "left", ax=ax)
     autolabel(rects2, "right", ax=ax)
     fig.tight_layout()
-    plt.savefig("results/manufacturers_amount.png")
+    plt.title('quantity by manufacturer')
+    plt.savefig("static/results/manufacturers_amount.png")
+    plt.close()
 
 
-def amount_by_price_range(max_price=1000, step=100):
+def amount_by_price_range(max_price=6000, step=1000):
     prices = []
     muztorg = []
     thomann = []
@@ -92,7 +94,9 @@ def amount_by_price_range(max_price=1000, step=100):
     autolabel(rects1, "left", ax=ax)
     autolabel(rects2, "right", ax=ax)
     fig.tight_layout()
-    plt.savefig("results/prices_amount.png")
+    plt.title('quantity in price range')
+    plt.savefig("static/results/prices_amount.png")
+    plt.close()
 
 item_regions = ['FR', 'JP', 'US', 'CA', 'RU', 'MX', 'PL', 'IT', 'DE', 'ES', 'BE', 'NL', 'CN']
 manufacturers = ['ibanez', 'gibson', 'epiphone', 'fender']
@@ -107,11 +111,10 @@ def shipping_by_regions():
     plt.xticks(y_pos, tuple(item_regions))
     plt.ylabel("average shipping price")
     plt.title("average shipping price by regions")
-    plt.savefig('results/shipping_region.png')
+    plt.savefig('static/results/shipping_region.png')
     plt.close()
 
 def shipping_by_manufacturer():
-
     y_pos = np.arange(len(manufacturers))
     average = []
     for key in manufacturers:
@@ -121,7 +124,7 @@ def shipping_by_manufacturer():
     plt.bar(y_pos, average)
     plt.xticks(y_pos, tuple(manufacturers))
     plt.title('average shipping price by manufacturers')
-    plt.savefig('results/shipping_manufacturers')
+    plt.savefig('static/results/shipping_manufacturers')
     plt.close()
 
 def shipping_by_manufacturer_and_region():
@@ -133,10 +136,61 @@ def shipping_by_manufacturer_and_region():
         plt.bar(y_pos, average)
         plt.xticks(y_pos, tuple(item_regions))
         plt.title(f'average shipping price of {m}')
-        plt.savefig(f'results/shipping_of_{m}')
+        plt.savefig(f'static/results/shipping_of_{m}')
         plt.close()
 
+def muztoorg_thomann():
+    step = 300
+    max_price = 5000
+    y = []
+    x = []
+    for i in range(0, 5000, step):
+        muztorg = filter.get_in_price_range(i, i+step, source='muztorg')
+        thomann = filter.get_in_price_range(i, i+step, source='thomann')
+        t_a = 0
+        m_a = 0
+        for t in thomann:
+            t_a += t['price']
+        for m in muztorg:
+            m_a += m['price']
+        try:
+            t_a = t_a/thomann.count()
+            m_a = m_a/muztorg.count()
+            
+            y.append((m_a/t_a - 1)*100)
+            # y.append(((m_a/muztorg.count())/(t_a/thomann.count())))
+            x.append(i)
+        except Exception as e:
+            print(e)
 
+    plt.title('price ratio (muztorg/thomann)')
+    plt.plot(x, y)
+    plt.savefig('static/results/m_div_t_percentage.png')
+    plt.close()
+
+def amount_in_price_range_by_source(source=''):
+    step = 600
+    x = []
+    y = []
+    total = filter.get_in_price_range(source=source).count()
+    try:
+        for i in range(0, 6000, step):
+            y.append(filter.get_in_price_range(i, i+step, source=source).count()/total * 100)
+            x.append(i)
+    except Exception as e:
+        print(e)
+
+    plt.title(f'quantity_in_price_range_on_{source}')
+    plt.plot(x, y)
+    plt.savefig(f'static/results/quantity_in_price_range_on_{source}.png')
+    plt.close()
+    
+muztoorg_thomann()
+amount_in_price_range_by_source()
+amount_in_price_range_by_source('thomann')
+amount_in_price_range_by_source('muztorg')
+amount_by_manufacturers()
+amount_by_price_range()
 shipping_by_regions()
 shipping_by_manufacturer()
 shipping_by_manufacturer_and_region()

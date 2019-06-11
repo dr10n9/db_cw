@@ -1,0 +1,240 @@
+24
+PRICE 44.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Salmon and Pea Recipe Dry Dog Food', 'price': 44.99}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Texas Beef + Sweet Potato Dry Dog Food', 'price': 59.99}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Chicken & Pea Recipe Dry Dog Food', 'price': 39.99}
+EXCEPTION list index out of range
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' Pacific Stream Grain-Free Smoked Salmon Dry Dog Food', 'price': 48.99}
+PRICE 90.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Original Dry Dog Food', 'price': 90.99}
+PRICE 67.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Acana', 'name': ' Red Meat Dry Dog Food', 'price': 67.99}
+PRICE 42.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Whole Earth Farms', 'name': ' Grain Free Recipe with Pork, Beef & Lamb Dry Dog Food', 'price': 42.99}
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Dog Food', 'price': 48.99}
+PRICE 106.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Six Fish Dry Dog Food', 'price': 106.99}
+PRICE 52.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Chicken Recipe Dry Dog Food', 'price': 52.98}
+PRICE 48.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food', 'price': 48.98}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free Chicken and Pea Recipe Dry Puppy Food', 'price': 39.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Chicken & Veggies Recipe Dry Dog Food', 'price': 41.49}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Beef & Pea Formula Dry Dog Food', 'price': 39.99}
+PRICE 54.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Salmon Recipe Dry Dog Food', 'price': 54.98}
+PRICE 52.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': "Hill's", 'name': ' Science Diet Adult Sensitive Stomach & Skin Chicken Recipe Dry Dog Food', 'price': 52.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Beef, Pea & Brown Rice Recipe Dry Dog Food', 'price': 41.49}
+PRICE 49.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Puppy Food', 'price': 49.99}
+PRICE 114.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Regional Red Dry Dog Food', 'price': 114.99}
+PRICE 59.67
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Natural Balance', 'name': ' L.I.D. Limited Ingredient Diets Sweet Potato & Fish Dog Food', 'price': 59.67}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Large Breed Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Senior Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Chicken + Sweet Potato Dry Dog Food', 'price': 59.99}
+24
+PRICE 44.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Salmon and Pea Recipe Dry Dog Food', 'price': 44.99}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Texas Beef + Sweet Potato Dry Dog Food', 'price': 59.99}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Chicken & Pea Recipe Dry Dog Food', 'price': 39.99}
+EXCEPTION list index out of range
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' Pacific Stream Grain-Free Smoked Salmon Dry Dog Food', 'price': 48.99}
+PRICE 90.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Original Dry Dog Food', 'price': 90.99}
+PRICE 67.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Acana', 'name': ' Red Meat Dry Dog Food', 'price': 67.99}
+PRICE 42.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Whole Earth Farms', 'name': ' Grain Free Recipe with Pork, Beef & Lamb Dry Dog Food', 'price': 42.99}
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Dog Food', 'price': 48.99}
+PRICE 106.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Six Fish Dry Dog Food', 'price': 106.99}
+PRICE 52.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Chicken Recipe Dry Dog Food', 'price': 52.98}
+PRICE 48.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food', 'price': 48.98}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free Chicken and Pea Recipe Dry Puppy Food', 'price': 39.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Chicken & Veggies Recipe Dry Dog Food', 'price': 41.49}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Beef & Pea Formula Dry Dog Food', 'price': 39.99}
+PRICE 54.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Salmon Recipe Dry Dog Food', 'price': 54.98}
+PRICE 52.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': "Hill's", 'name': ' Science Diet Adult Sensitive Stomach & Skin Chicken Recipe Dry Dog Food', 'price': 52.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Beef, Pea & Brown Rice Recipe Dry Dog Food', 'price': 41.49}
+PRICE 49.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Puppy Food', 'price': 49.99}
+PRICE 114.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Regional Red Dry Dog Food', 'price': 114.99}
+PRICE 59.67
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Natural Balance', 'name': ' L.I.D. Limited Ingredient Diets Sweet Potato & Fish Dog Food', 'price': 59.67}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Large Breed Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Senior Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Chicken + Sweet Potato Dry Dog Food', 'price': 59.99}
+24
+PRICE 44.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Salmon and Pea Recipe Dry Dog Food', 'price': 44.99}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Texas Beef + Sweet Potato Dry Dog Food', 'price': 59.99}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Chicken & Pea Recipe Dry Dog Food', 'price': 39.99}
+EXCEPTION list index out of range
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' Pacific Stream Grain-Free Smoked Salmon Dry Dog Food', 'price': 48.99}
+PRICE 90.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Original Dry Dog Food', 'price': 90.99}
+PRICE 67.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Acana', 'name': ' Red Meat Dry Dog Food', 'price': 67.99}
+PRICE 42.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Whole Earth Farms', 'name': ' Grain Free Recipe with Pork, Beef & Lamb Dry Dog Food', 'price': 42.99}
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Dog Food', 'price': 48.99}
+PRICE 106.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Six Fish Dry Dog Food', 'price': 106.99}
+PRICE 52.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Chicken Recipe Dry Dog Food', 'price': 52.98}
+PRICE 48.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food', 'price': 48.98}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free Chicken and Pea Recipe Dry Puppy Food', 'price': 39.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Chicken & Veggies Recipe Dry Dog Food', 'price': 41.49}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Beef & Pea Formula Dry Dog Food', 'price': 39.99}
+PRICE 54.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Salmon Recipe Dry Dog Food', 'price': 54.98}
+PRICE 52.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': "Hill's", 'name': ' Science Diet Adult Sensitive Stomach & Skin Chicken Recipe Dry Dog Food', 'price': 52.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Beef, Pea & Brown Rice Recipe Dry Dog Food', 'price': 41.49}
+PRICE 49.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Puppy Food', 'price': 49.99}
+PRICE 114.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Regional Red Dry Dog Food', 'price': 114.99}
+PRICE 59.67
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Natural Balance', 'name': ' L.I.D. Limited Ingredient Diets Sweet Potato & Fish Dog Food', 'price': 59.67}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Large Breed Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Senior Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Chicken + Sweet Potato Dry Dog Food', 'price': 59.99}
+24
+PRICE 44.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Salmon and Pea Recipe Dry Dog Food', 'price': 44.99}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Texas Beef + Sweet Potato Dry Dog Food', 'price': 59.99}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Chicken & Pea Recipe Dry Dog Food', 'price': 39.99}
+EXCEPTION list index out of range
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' Pacific Stream Grain-Free Smoked Salmon Dry Dog Food', 'price': 48.99}
+PRICE 90.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Original Dry Dog Food', 'price': 90.99}
+PRICE 67.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Acana', 'name': ' Red Meat Dry Dog Food', 'price': 67.99}
+PRICE 42.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Whole Earth Farms', 'name': ' Grain Free Recipe with Pork, Beef & Lamb Dry Dog Food', 'price': 42.99}
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Dog Food', 'price': 48.99}
+PRICE 106.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Six Fish Dry Dog Food', 'price': 106.99}
+PRICE 52.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Chicken Recipe Dry Dog Food', 'price': 52.98}
+PRICE 48.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food', 'price': 48.98}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free Chicken and Pea Recipe Dry Puppy Food', 'price': 39.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Chicken & Veggies Recipe Dry Dog Food', 'price': 41.49}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Beef & Pea Formula Dry Dog Food', 'price': 39.99}
+PRICE 54.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Salmon Recipe Dry Dog Food', 'price': 54.98}
+PRICE 52.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': "Hill's", 'name': ' Science Diet Adult Sensitive Stomach & Skin Chicken Recipe Dry Dog Food', 'price': 52.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Beef, Pea & Brown Rice Recipe Dry Dog Food', 'price': 41.49}
+PRICE 49.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Puppy Food', 'price': 49.99}
+PRICE 114.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Regional Red Dry Dog Food', 'price': 114.99}
+PRICE 59.67
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Natural Balance', 'name': ' L.I.D. Limited Ingredient Diets Sweet Potato & Fish Dog Food', 'price': 59.67}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Large Breed Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Senior Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Chicken + Sweet Potato Dry Dog Food', 'price': 59.99}
+24
+PRICE 44.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Salmon and Pea Recipe Dry Dog Food', 'price': 44.99}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Texas Beef + Sweet Potato Dry Dog Food', 'price': 59.99}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Chicken & Pea Recipe Dry Dog Food', 'price': 39.99}
+EXCEPTION list index out of range
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' Pacific Stream Grain-Free Smoked Salmon Dry Dog Food', 'price': 48.99}
+PRICE 90.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Original Dry Dog Food', 'price': 90.99}
+PRICE 67.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Acana', 'name': ' Red Meat Dry Dog Food', 'price': 67.99}
+PRICE 42.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Whole Earth Farms', 'name': ' Grain Free Recipe with Pork, Beef & Lamb Dry Dog Food', 'price': 42.99}
+PRICE 48.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Dog Food', 'price': 48.99}
+PRICE 106.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Six Fish Dry Dog Food', 'price': 106.99}
+PRICE 52.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Chicken Recipe Dry Dog Food', 'price': 52.98}
+PRICE 48.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food', 'price': 48.98}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free Chicken and Pea Recipe Dry Puppy Food', 'price': 39.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Chicken & Veggies Recipe Dry Dog Food', 'price': 41.49}
+PRICE 39.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'WholeHearted', 'name': ' Grain Free All Life Stages Beef & Pea Formula Dry Dog Food', 'price': 39.99}
+PRICE 54.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Wilderness Adult Salmon Recipe Dry Dog Food', 'price': 54.98}
+PRICE 52.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': "Hill's", 'name': ' Science Diet Adult Sensitive Stomach & Skin Chicken Recipe Dry Dog Food', 'price': 52.99}
+PRICE 41.49
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Rachael Ray Nutrish', 'name': ' Natural Real Beef, Pea & Brown Rice Recipe Dry Dog Food', 'price': 41.49}
+PRICE 49.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Taste of the Wild', 'name': ' High Prairie Grain-Free Roasted Bison & Venison Dry Puppy Food', 'price': 49.99}
+PRICE 114.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Orijen', 'name': ' Regional Red Dry Dog Food', 'price': 114.99}
+PRICE 59.67
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Natural Balance', 'name': ' L.I.D. Limited Ingredient Diets Sweet Potato & Fish Dog Food', 'price': 59.67}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Adult Large Breed Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 49.98
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Blue Buffalo', 'name': ' Blue Life Protection Formula Senior Chicken & Brown Rice Recipe Dry Dog Food', 'price': 49.98}
+PRICE 59.99
+{'pet': 'dog', 'type goods': 'dry food', 'manufacturer': 'Merrick', 'name': ' Grain Free Real Chicken + Sweet Potato Dry Dog Food', 'price': 59.99}
